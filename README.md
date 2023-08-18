@@ -1,0 +1,2 @@
+# GITAssignments
+GITINtellipaatASSIGNMENTS
